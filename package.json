@@ -1,0 +1,19 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhnsen/express-practice.git"
+  },
+  "author": "Dan H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhnsen/express-practice/issues"
+  },
+  "homepage": "https://github.com/dhnsen/express-practice#readme"
+}
